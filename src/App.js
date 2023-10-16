@@ -1,7 +1,7 @@
 import './App.css';
 
 function App() {
-  const imageUrl1 = process.env.PUBLIC_URL + 'user.png';
+  const imageUrl1 = process.env.PUBLIC_URL + 'User.png';
   const imageUrl2 = process.env.PUBLIC_URL + 'web-developer-logo-design-29b5d4.png';
   const imageUrl3 = process.env.PUBLIC_URL + 'Java-Logo.png';
   const imageUrl4 = process.env.PUBLIC_URL + 'download.png';
